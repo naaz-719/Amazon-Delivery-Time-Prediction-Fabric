@@ -155,7 +155,7 @@ This page provides high-level operational KPIs and delivery performance insights
 
 ### Dashboard Preview
 
-![Executive Overview](Dashboard/Executive Overiview.JPG)
+![Executive Overview](Dashboard/Executive Overview.jpg)
 
 ---
 
