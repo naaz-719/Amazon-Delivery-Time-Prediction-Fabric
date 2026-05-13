@@ -252,6 +252,6 @@ amazon-delivery-operations-intelligence/
 
 Naaz
 
-Computer Science Graduate specializing in AI & ML and Data Science.
+Computer Science Graduate.
 
 ---
